@@ -1,0 +1,2 @@
+model_checkpoint_path: "housingmodel_wts.wt"
+all_model_checkpoint_paths: "housingmodel_wts.wt"
